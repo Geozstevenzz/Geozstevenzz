@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Geozstevenzz. 
-Side project: www.mamafua.co.ke. 
-I'm a vibe coding monkay. True degenerate
+- 👋 Hi, I’m @Geozstevenzz.<br>
+Side project: www.mamafua.co.ke. <br>
+I'm a vibe coding monkayyy. True degenerate
 
 <!---
 Geozstevenzz/Geozstevenzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
