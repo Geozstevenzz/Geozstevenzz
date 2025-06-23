@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Geozstevenzz
+- 👋 Hi, I’m @Geozstevenzz. www.mamafua.co.ke. Im a vibe coding degen
 
 <!---
 Geozstevenzz/Geozstevenzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
