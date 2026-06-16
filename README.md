@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Geozstevenzz.<br>
-Side projects: www.mamafua.co.ke. | www.wallart.co.ke | parzoapp.com <br>
+Side projects: www.mamafua.co.ke. | www.wallart.co.ke | www.seedshareapp.com | www.parzoapp.com <br>
 I'm a vibe coding monkayyy. True AI degenerate
 
 <!---
